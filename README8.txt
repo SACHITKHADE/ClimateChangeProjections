@@ -1,0 +1,1 @@
+"We are trying to visualize impact of climate change like rise in Global temperature, melting of polar ice caps, and create awareness."We are using the data regarding climate change to predict the harmful changes in environment and impact on living organisms in future by using various modules"
